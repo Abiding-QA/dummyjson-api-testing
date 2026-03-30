@@ -1,0 +1,5 @@
+$kind: http-request
+name: carts by user
+url: https://dummyjson.com/carts/user/5
+method: GET
+order: 1171426984856463

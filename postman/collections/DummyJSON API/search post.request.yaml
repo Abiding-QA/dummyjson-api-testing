@@ -1,0 +1,8 @@
+$kind: http-request
+name: search post
+url: https://dummyjson.com/posts/search?q=love&sortBy=order
+method: GET
+queryParams:
+  q: love
+  sortBy: order
+order: 4440033250457962

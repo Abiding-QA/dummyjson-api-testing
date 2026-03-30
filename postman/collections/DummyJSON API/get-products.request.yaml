@@ -1,0 +1,5 @@
+$kind: http-request
+name: get products
+url: 'https://dummyjson.com/products'
+method: GET
+order: 1000

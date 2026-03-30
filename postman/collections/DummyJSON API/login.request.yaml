@@ -1,0 +1,12 @@
+$kind: http-request
+name: login
+url: 'https://dummyjson.com/auth/login'
+method: POST
+order: 3000
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {"username":"emilys","password":"emilyspass"}

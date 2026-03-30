@@ -1,0 +1,31 @@
+$kind: http-request
+url: https://dummyjson.com/carts/add
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"userId\": 1,\r
+
+    \      \"products\": [\r
+
+    \        {\r
+
+    \          \"id\": 144,\r
+
+    \          \"quantity\": 4\r
+
+    \        },\r
+
+    \        {\r
+
+    \          \"id\": 98,\r
+
+    \          \"quantity\": 1\r
+
+    \        }\r
+
+    \      ]\r
+
+    }"
+order: 3987122851092624
