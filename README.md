@@ -6,6 +6,10 @@ Tested APIs:
 - Authentication
 - Products
 - Product search
+- Search post
+- Add to cart
+- All posts
+- Current user
 
 Tools Used:
 - Postman
